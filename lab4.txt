@@ -1,0 +1,5 @@
+2025-11-08T15:15:21Z [net] sending sendcmpct (9 bytes) peer=0
+2025-11-08T15:15:21Z [net] received: sendcmpct (9 bytes) peer=0
+2025-11-08T15:16:43Z [net] received getdata for: cmpctblock 738e5f102cc2100492769ae7e792479a7bb5033515d94ceb744e70fd754311f1 peer=0
+2025-11-08T15:16:43Z [net] sending cmpctblock (260 bytes) peer=0
+2025-11-08T15:16:43Z [net] received: sendcmpct (9 bytes) peer=0
