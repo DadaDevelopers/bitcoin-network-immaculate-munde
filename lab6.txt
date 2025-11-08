@@ -1,0 +1,24 @@
+Block Hash: 738e5f102cc2100492769ae7e792479a7bb5033515d94ceb744e70fd754311f1
+{
+  "hash": "738e5f102cc2100492769ae7e792479a7bb5033515d94ceb744e70fd754311f1",
+  "confirmations": 1,
+  "height": 511,
+  "version": 536870912,
+  "versionHex": "20000000",
+  "merkleroot": "8a3f45247d6af530aa76ba1f10e5206f89c3ee195359823a1dae25dca86ffff7",
+  "time": 1762615003,
+  "mediantime": 1762614119,
+  "nonce": 0,
+  "bits": "207fffff",
+  "target": "7fffff0000000000000000000000000000000000000000000000000000000000",
+  "difficulty": 4.656542373906925e-10,
+  "chainwork": "0000000000000000000000000000000000000000000000000000000000000400",
+  "nTx": 1,
+  "previousblockhash": "3fee9fb816877af56d5051bae0b15242dd70a93ee5ddefef8d51a1de696b918a",
+  "strippedsize": 214,
+  "size": 250,
+  "weight": 892,
+  "tx": [
+    "8a3f45247d6af530aa76ba1f10e5206f89c3ee195359823a1dae25dca86ffff7"
+  ]
+}
