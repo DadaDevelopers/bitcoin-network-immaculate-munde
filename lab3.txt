@@ -1,0 +1,72 @@
+Receiving Address: bcrt1qjhe2y8nycmgye0u8q8zrwrhk7t62lgad2wc8z3
+Transaction ID: ba868a5fb9b959f3596cad36bb4ee20e9c29e0dae2f6bb2649a060e221805787
+
+===== MEMPOOL INFO =====
+{
+  "loaded": true,
+  "size": 1,
+  "bytes": 141,
+  "usage": 1152,
+  "total_fee": 0.00001410,
+  "maxmempool": 300000000,
+  "mempoolminfee": 0.00001000,
+  "minrelaytxfee": 0.00001000,
+  "incrementalrelayfee": 0.00001000,
+  "unbroadcastcount": 1,
+  "fullrbf": true
+}
+
+===== RAW MEMPOOL =====
+[
+  "ba868a5fb9b959f3596cad36bb4ee20e9c29e0dae2f6bb2649a060e221805787"
+]
+[
+  "6caf7b827a15dcd4c885526419763449e7ff7b4a775bb69f9b76a59aead21e78"
+]
+
+===== TRANSACTION DETAILS =====
+{
+  "amount": 0.00000000,
+  "fee": -0.00001410,
+  "confirmations": 1,
+  "blockhash": "6caf7b827a15dcd4c885526419763449e7ff7b4a775bb69f9b76a59aead21e78",
+  "blockheight": 508,
+  "blockindex": 1,
+  "blocktime": 1762614286,
+  "txid": "ba868a5fb9b959f3596cad36bb4ee20e9c29e0dae2f6bb2649a060e221805787",
+  "wtxid": "119ab307d00d624ea03edcfd63538c2ceb7b79550594566d2b44085531e5f46a",
+  "walletconflicts": [
+  ],
+  "mempoolconflicts": [
+  ],
+  "time": 1762614154,
+  "timereceived": 1762614154,
+  "bip125-replaceable": "no",
+  "details": [
+    {
+      "address": "bcrt1qjhe2y8nycmgye0u8q8zrwrhk7t62lgad2wc8z3",
+      "category": "send",
+      "amount": -5.00000000,
+      "label": "",
+      "vout": 1,
+      "fee": -0.00001410,
+      "abandoned": false
+    },
+    {
+      "address": "bcrt1qjhe2y8nycmgye0u8q8zrwrhk7t62lgad2wc8z3",
+      "parent_descs": [
+        "wpkh(tpubD6NzVbkrYhZ4Xy2sAfPntdVEPNmcCxf9j5KtA7rdhFMkMiLb3P4jVSksngGVCnv3GeFmke6RQtPSP7noYdzDcmmiC1S4sDHtu11aEFDDLZU/84h/1h/0h/0/*)#7auz4u9p"
+      ],
+      "category": "receive",
+      "amount": 5.00000000,
+      "label": "",
+      "vout": 1,
+      "abandoned": false
+    }
+  ],
+  "hex": "02000000000101ff5c63bcc914995a8f1a9b2ab6fdbe5ffc63be1bd23ecb0d88c654bb5cb7f14c0000000000fdffffff02fe11b42c0000000016001448335674f3ddc83a3846d2c4793587e75343965a0065cd1d0000000016001495f2a21e64c6d04cbf8701c4370ef6f2f4afa3ad0247304402202a4f86937dddf8828c16b7ef3026d897ca5b44508ae470d00e77c37a2834491202206a454d145aa912c4152d02ad5989b85213d0a902ff886732451a45893c1a1e30012103afd0d384fac0c8164d9534a918901ef32e6cdd02c62727863f7bb44181e8aa15fb010000",
+  "lastprocessedblock": {
+    "hash": "6caf7b827a15dcd4c885526419763449e7ff7b4a775bb69f9b76a59aead21e78",
+    "height": 508
+  }
+}
